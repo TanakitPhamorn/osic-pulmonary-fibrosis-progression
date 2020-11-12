@@ -1,0 +1,8 @@
+1. Should I mask the lung pictures
+	Masking gives you more detailed images
+	Not masking NOW is giving you better score
+2. Are there anyway that we can use both images and text for modelling at the same time.
+3. Can we do K-fold cross validation for this model?
+4. How many layers should we use for CNN model
+5. What loss function and metrics that we should use.
+	Now I use 1.mean_squared_logarithmic_error with MSE and 2.mean_squared_error with RMSE
